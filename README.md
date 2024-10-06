@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-dppbk.nitrocdn.com/yQqYxSaTIazRSTSDbfxPrqFzJPJOhsTG/assets/images/optimized/rev-12ba6f7/www.thedroidsonroids.com/wp-content/uploads/2023/12/header-1200x640.png)
+[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FWdBuBKhLJjaCr_TDMN9AWaXfHkuZHBlxHJ0tYgBvZaY.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D39e2a6c532e9df50bbecaaccdbe9a1271f6691c8)
 
 
 <h1 align="center">Hi 👋, I'm Enes Orhan</h1>
