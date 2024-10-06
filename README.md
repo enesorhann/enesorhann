@@ -1,4 +1,4 @@
-[![MasterHead](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F)
+[![MasterHead](https://cdn-dppbk.nitrocdn.com/yQqYxSaTIazRSTSDbfxPrqFzJPJOhsTG/assets/images/optimized/rev-12ba6f7/www.thedroidsonroids.com/wp-content/uploads/2023/12/header-1200x640.png)
 
 
 <h1 align="center">Hi 👋, I'm Enes Orhan</h1>
