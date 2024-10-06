@@ -1,4 +1,4 @@
-[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FWdBuBKhLJjaCr_TDMN9AWaXfHkuZHBlxHJ0tYgBvZaY.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D39e2a6c532e9df50bbecaaccdbe9a1271f6691c8)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWw7Gtl3ZIwxGLFbGDRhlpGOEjRkZRDAwwnw&s)
 
 
 <h1 align="center">Hi 👋, I'm Enes Orhan</h1>
