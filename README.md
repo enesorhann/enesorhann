@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWw7Gtl3ZIwxGLFbGDRhlpGOEjRkZRDAwwnw&s)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWw7Gtl3ZIwxGLFbGDRhlpGOEjRkZRDAwwnw&s)
 
 
 <h1 align="center">Hi 👋, I'm Enes Orhan</h1>
