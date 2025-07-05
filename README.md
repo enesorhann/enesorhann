@@ -15,10 +15,9 @@ My strength lies in bridging traditional engineering with modern AI workflows, f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/enes-orhan-9a88381b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-orhan-9a88381b7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enesorhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesorhann" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23550846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23550846" height="30" width="40" /></a>
 <a href="https://kaggle.com/enesart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="enesart" height="30" width="40" /></a>
-<a href="https://instagram.com/genomlib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genomlib" height="30" width="40" /></a>
 <a href="https://medium.com/@enesorhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@enesorhann" height="30" width="40" /></a>
 </p>
 
