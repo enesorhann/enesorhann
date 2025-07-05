@@ -1,7 +1,6 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWw7Gtl3ZIwxGLFbGDRhlpGOEjRkZRDAwwnw&s)
 
 
-<h1 align="center">Hi 👋, I'm Enes Orhan</h1>
 <h3 align="center">𝗜’𝗺 𝗮 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲𝗱 𝗶𝗻 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱𝘀 𝗮𝗻𝗱 𝗔𝗜-𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗯𝘂𝗶𝗹𝘁 𝘄𝗶𝘁𝗵 𝗗𝗷𝗮𝗻𝗴𝗼 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲.
 I build cross-platform mobile apps using Flutter and develop robust backend services using Python (Django) and Firebase — enabling real-time data exchange, seamless API integration, and scalable cloud infrastructure.
 My focus is on building AI-integrated solutions:
