@@ -34,16 +34,16 @@ My strength lies in bridging traditional engineering with modern AI workflows, f
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enesorhann&theme=onedark" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=enesorhann&theme=gruvbox" />
+
   </a>
 </p>
 
----
+
+
 
 ### 📫 How to reach me  
 **enesorhann404@gmail.com**
-
----
 
 ### 🔗 Connect with me
 <p align="left">
