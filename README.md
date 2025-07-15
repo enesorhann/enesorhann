@@ -93,7 +93,7 @@ My strength lies in bridging traditional engineering with modern AI workflows, f
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enesorhann&theme=dark" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=enesorhann&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
