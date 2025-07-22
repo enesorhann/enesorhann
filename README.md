@@ -34,7 +34,7 @@ My strength lies in bridging traditional engineering with modern AI workflows, f
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enesorhann&theme=gruvbox" />
+    <img src="https://github-profile-trophy.vercel.app/?username=enesorhann&theme=matrix" />
 
   </a>
 </p>
