@@ -1,9 +1,6 @@
 <!-- Master Head -->
 <table width="100%">
   <tr>
-    <td align="left">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWw7Gtl3ZIwxGLFbGDRhlpGOEjRkZRDAwwnw&s" alt="MasterHead" width="300"/>
-    </td>
     <td align="right">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ3a3pmOTRraWc5ejJ1NHRsOGh6YmxvNDQ2NWUyNXcxMWliZGMwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" alt="Coding" width="300" height="300"/>
     </td>
@@ -11,7 +8,7 @@
 </table>
 
 <h3 align="center">
-𝗜’𝗺 𝗮 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲𝗱 𝗶𝗻 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱𝘀 𝗮𝗻𝗱 𝗔𝗜-𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗯𝘂𝗶𝗹𝘁 𝘄𝗶𝘁𝗵 𝗗𝗷𝗮𝗻𝗴𝗼 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲.
+Hi i'm Enes,i’𝗺 𝗮 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲𝗱 𝗶𝗻 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱𝘀 𝗮𝗻𝗱 𝗔𝗜-𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗯𝘂𝗶𝗹𝘁 𝘄𝗶𝘁𝗵 𝗗𝗷𝗮𝗻𝗴𝗼 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲.
 <br/><br/>
 I build cross-platform mobile apps using Flutter and develop robust backend services using Python (Django) and Firebase — enabling real-time data exchange, seamless API integration, and scalable cloud infrastructure.
 <br/><br/>
