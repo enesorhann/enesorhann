@@ -55,6 +55,16 @@ My strength lies in bridging traditional engineering with modern AI workflows, f
   </a>
 </p>
 
+### 💖 Support Me
+<p align="left">
+  <a href="https://ko-fi.com/enesorhann" target="_blank">
+    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="40" />
+  </a>
+  <a href="https://www.buymeacoffee.com/enesorhann" target="_blank">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
+  </a>
+</p>
+
 ---
 
 ### 🛠 Languages and Tools
