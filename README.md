@@ -7,24 +7,25 @@
   </tr>
 </table>
 
-<h3 align="center">
-Hi i'm Enes,i’𝗺 𝗮 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲𝗱 𝗶𝗻 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱𝘀 𝗮𝗻𝗱 𝗔𝗜-𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗯𝘂𝗶𝗹𝘁 𝘄𝗶𝘁𝗵 𝗗𝗷𝗮𝗻𝗴𝗼 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲.
-<br/><br/>
-I build cross-platform mobile apps using Flutter and develop robust backend services using Python (Django) and Firebase — enabling real-time data exchange, seamless API integration, and scalable cloud infrastructure.
-<br/><br/>
-My focus is on building AI-integrated solutions:
-<ul align="center">
-<li>Scalable APIs</li>
-<li>Semantic search engines</li>
-<li>ML-powered product classification and recommendation systems</li>
-<li>Full-text and vector-based search capabilities</li>
-</ul>
-I also build browser extensions and LLM-driven tools using prompt-based logic for intelligent decision-making pipelines.
-My strength lies in bridging traditional engineering with modern AI workflows, focusing on performance, reliability, and smart automation.
-<br/><br/>
-𝗔𝗹𝘄𝗮𝘆𝘀 𝗲𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝘄𝗼𝗿𝗸 𝗼𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗵𝗲𝗿𝗲 𝗺𝗼𝗯𝗶𝗹𝗲, 𝗯𝗮𝗰𝗸𝗲𝗻𝗱, 𝗮𝗻𝗱 𝗔𝗜 𝗰𝗼𝗺𝗲 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.
-</h3>
+<div align="center">
 
+<h3>Hi, I'm Enes — a Backend & Mobile Engineer specialized in building scalable production systems with Django, FastAPI, and Flutter.</h3>
+
+<p>I design and operate high-performance backend architectures — from multi-tenant REST APIs and ML-powered microservices to Kubernetes-based deployments and self-hosted infrastructure. My systems have operated on 14M+ product records with sub-200ms average API response times.</p>
+
+<p>
+⚡ High-performance REST API design & optimization<br/>
+🤖 ML pipelines — semantic search, vector search (FAISS), category classification<br/>
+⚙️ Asynchronous task processing with Celery + Redis<br/>
+☸️ Kubernetes (kubeadm) deployments & production debugging<br/>
+📱 Cross-platform mobile development with Flutter<br/>
+</p>
+
+<p>I bridge backend engineering with modern AI workflows — building systems that are fast, reliable, and intelligently automated.</p>
+
+<i>Always excited to work where backend performance and AI meet.</i>
+
+</div>
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesorhann&label=Profile%20views&color=0e75b6&style=flat" alt="enesorhann" /> </p>
