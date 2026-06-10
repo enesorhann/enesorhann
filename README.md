@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at **Konya Teknik Üniversitesi** (graduating July 2026), with hands-on experience shipping production SaaS products used by paying customers.
+I'm a Computer Engineering graduate from **Konya Teknik Üniversitesi** (June 2026), with hands-on experience shipping production SaaS products used by paying customers.
 
 I design and operate high-performance backend architectures — from multi-tenant REST APIs and ML-powered microservices to Kubernetes-based deployments and ASP.NET Core backends. My systems have processed **14M+ product records** with sub-200ms average API response times.
 
