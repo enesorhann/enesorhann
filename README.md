@@ -6,9 +6,6 @@
 
 Ölçeklenebilir backend sistemleri, kullanıcı dostu mobil uygulamalar ve modern yazılım mimarileri üzerine çalışıyorum.
 
-
-
-
 [![Website](https://img.shields.io/badge/Website-enesorhan.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enesorhan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesorhann)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@enesorhann)
@@ -46,12 +43,13 @@
 
 ## 📱 Uygulamalarım
 
+> Aşağıdaki uygulamaların backend'lerini de kendim geliştirdim; Docker ile konteynerize edip Kubernetes üzerinde yayına aldım.
+
 | Proje | Açıklama | Teknoloji | Mağazalar | GitHub |
 | :--- | :--- | :--- | :--- | :---: |
-| 💍 **Zerbook** | Kuyumcular için dijital defter — stok, mikrogram hassasiyetinde altın ve cari hesap takibi | Flutter, ASP.NET Core, SignalR | ![Google Play](https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-01875F?style=flat-square&logo=googleplay&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=apple&logoColor=white) | — |
-| 🔩 **HırdavatPOS** | Hırdavatçılar için e-ticaret ve sipariş yönetimi — katalog, sipariş takibi, faturalama | Flutter, ASP.NET Core | ![Yayında](https://img.shields.io/badge/Yay%C4%B1nda-01875F?style=flat-square) | — |
-| 🔤 **Entegram** | Alışkanlık odaklı, kaydırma tabanlı İngilizce mikro-öğrenme | Flutter, ASP.NET Core | ![App Store](https://img.shields.io/badge/App_Store-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=apple&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=googleplay&logoColor=white) | — |
-| 📧 **[Mail Sender Smart Edition](https://mailsendersmartedition.com)** | LLM destekli şablon üretimiyle akıllı toplu e-posta yönetimi *(bitirme projesi)* | Flutter, Django, Kubernetes | [![App Store](https://img.shields.io/badge/App_Store-Yay%C4%B1nda-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/mail-sender-smart-edition/id6758946829?l=tr) [![Google Play](https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-01875F?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mailsendersmartedition.enpa&hl=tr) | — |
+| 💍 **Zerbook** | Altınlarınızı kaydedin, canlı fiyatlarla ve ailenizle birlikte takip edin. | Flutter, ASP.NET Core, SignalR, Docker, Kubernetes | ![App Store](https://img.shields.io/badge/App_Store-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=apple&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=googleplay&logoColor=white) | — |
+| 🔤 **Entegram** | Alışkanlık odaklı, kaydırma tabanlı İngilizce mikro-öğrenme | Flutter, ASP.NET Core, SignalR, Docker, Kubernetes | [![App Store](https://img.shields.io/badge/App_Store-Yay%C4%B1nda-000000?style=flat-square&logo=apple&logoColor=white)](ENTEGRAM_APPSTORE_LINK) [![Google Play](https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-01875F?style=flat-square&logo=googleplay&logoColor=white)](ENTEGRAM_PLAYSTORE_LINK) | — |
+| 📧 **[Mail Sender Smart Edition](https://mailsendersmartedition.com)** | LLM destekli şablon üretimiyle akıllı toplu e-posta yönetimi *(bitirme projesi)* | Flutter, Django, Celery, Docker, Kubernetes | [![App Store](https://img.shields.io/badge/App_Store-Yay%C4%B1nda-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/mail-sender-smart-edition/id6758946829?l=tr) [![Google Play](https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-01875F?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mailsendersmartedition.enpa&hl=tr) | — |
 
 ---
 
@@ -59,13 +57,9 @@
 
 | Proje | Açıklama | Teknoloji | Durum |
 | :--- | :--- | :--- | :--- |
-| ⚓ **[BidsForShips](https://bidsforships.com)** | 3.000+ firmanın kullandığı çok kiracılı B2B denizcilik ihale platformu — RBAC iş akışları, Elasticsearch arama altyapısı | Django REST, PostgreSQL, Kubernetes | ![Yayında](https://img.shields.io/badge/Yay%C4%B1nda-01875F?style=flat-square) |
+| ⚓ **[BidsForShips](https://bidsforships.com)** | 3.000+ firmanın kayıtlı olduğu çok kiracılı B2B denizcilik ihale platformu — RBAC iş akışları, Elasticsearch arama altyapısı | Django REST, PostgreSQL, Elasticsearch, Docker, Kubernetes | ![Yayında](https://img.shields.io/badge/Yay%C4%B1nda-01875F?style=flat-square) |
 | 🗺️ **[CompAtlas](https://compatlas.com.tr)** | Türkiye'nin 81 ilindeki 17K+ yazılım & teknoloji firmasını haritalayan veri platformu — çok kaynaklı veri füzyonu (OSM, Google Places, Overture Maps), KVKK uyumlu | Next.js, Supabase | ![Yayında](https://img.shields.io/badge/Yay%C4%B1nda-01875F?style=flat-square) |
 | 🌲 **[Özyalçınlar Kereste](https://www.ozyalcinlar.com.tr/)** | Kereste firması için kurumsal web sitesi yenileme | Web | ![Yapım Aşamasında](https://img.shields.io/badge/Yap%C4%B1m_A%C5%9Famas%C4%B1nda-F5A623?style=flat-square) |
-
-
-
-
 
 ---
 
