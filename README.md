@@ -38,7 +38,7 @@ My current focus is **C#/.NET for backend development** and **Flutter for mobile
 
 I've worked on systems ranging from consumer mobile products to multi-tenant platforms, search and data pipelines, real-time applications, authentication and subscription systems, and production infrastructure.
 
-I care about the engineering behind the product — not just making features work, but understanding **architecture, failure cases, data integrity, performance, and maintainability**.
+I care about the engineering behind the product not just making features work, but understanding **architecture, failure cases, data integrity, performance, and maintainability**.
 
 ---
 
