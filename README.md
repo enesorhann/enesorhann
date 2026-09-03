@@ -61,8 +61,8 @@ A mobile product I built end-to-end, from the Flutter client to the ASP.NET Core
 * Docker + Kubernetes
 * Android & iOS builds
 
-→ [Mobile Repository](https://github.com/enesorhann/zerbook_mobile)
-→ [Backend Repository](https://github.com/enesorhann/zerbook_backend)
+→ [Mobile Repository](https://github.com/enesorhann/zerbook_mobile_readme)
+→ [Backend Repository](https://github.com/enesorhann/zerbook_backend_readme)
 
 ---
 
@@ -85,8 +85,8 @@ A mobile product combining learning, social features, subscriptions, and realtim
 * Feature-first / Clean Architecture
 * Background processing
 
-→ [Mobile Repository](https://github.com/enesorhann/entegram_mobile)
-→ [Backend Repository](https://github.com/enesorhann/entegram_backend)
+→ [Mobile Repository](https://github.com/enesorhann/entegram_mobile_readme)
+→ [Backend Repository](https://github.com/enesorhann/entegram_backend_readme)
 
 ---
 
@@ -110,8 +110,8 @@ My graduation project, developed as a complete product combining mobile developm
 * Docker + Kubernetes
 * Published on Google Play and App Store
 
-→ [Mobile Repository](https://github.com/enesorhann/mailsender_mobile)
-→ [Backend Repository](https://github.com/enesorhann/mailsender_backend)
+→ [Mobile Repository](https://github.com/enesorhann/mailsender_mobile_readme)
+→ [Backend Repository](https://github.com/enesorhann/mailsender_backend_readme)
 → [Product Website](https://mailsendersmartedition.com)
 
 ---
@@ -135,7 +135,7 @@ A platform mapping **17K+ software and technology companies across all 81 provin
 * SEO / GEO visibility analysis
 
 → [Visit CompAtlas](https://compatlas.com.tr)
-→ [Repository](https://github.com/enesorhann/compatlas)
+→ [Repository](https://github.com/enesorhann/compatlas_frontend_readme)
 
 ---
 
